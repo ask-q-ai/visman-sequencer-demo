@@ -1,0 +1,15 @@
+{
+  "id": "sequencer-demo",
+  "name": "Sequencer Demo",
+  "description": "Exported from embedded Flutter VisMan demo scene \"sequencer-demo\".",
+  "tags": [
+    "demo",
+    "sequencer"
+  ],
+  "source": "flutter-embedded-demo",
+  "generatedAt": "2026-02-23T08:11:45.557246Z",
+  "sceneFile": "visman.json",
+  "objectCount": 4,
+  "hasPhysics": false,
+  "has3D": false
+}
